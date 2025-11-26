@@ -13,7 +13,7 @@ I want to try doing it again without looking at the code I wrote back then.
 
 ### Live
 
-<a href='http://google.com/'>Google</a>
+<a href='https://erreurdesyntaxe.github.io/tictactoe-redo/'>Google</a>
 
 ### Objective
 
